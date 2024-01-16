@@ -1,8 +1,9 @@
 # ReefNet
 
 # 1. Data Organization
-|root
-├── soucelist.txt <!-- A list of data souce and short description -->
+```
+|
+├── soucelist.txt <!-- List of sources -->
 ├── CoralNet
 │   ├── README.md <!-- Description about the dataset -->
 │   ├── Labelmapping.csv <!-- Store class code, full class name, matched worm class name -->
@@ -14,11 +15,14 @@
 │   ├── README.md <!-- Description about the dataset -->
 │   ├── Images/
 │   ├── labels.csv
-│...
+```
+
 
 # 2. Model
 Useful deep learning libraries:
+
 Timm: https://timm.fast.ai/
+
 Reference project: https://github.com/faixan-khan/FishNet
 
 # 3. Segment Labeling
