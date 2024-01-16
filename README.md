@@ -2,6 +2,7 @@
 
 # 1. Images and Labelset
 ```
+./data/
 |
 ├── soucelist.txt <!-- List of sources -->
 ├── CoralNet
