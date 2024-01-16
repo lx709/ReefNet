@@ -30,5 +30,6 @@ Reference project: https://github.com/faixan-khan/FishNet
 # 3. Segment Labeling
 
 # 4. Segmentation model training
-Finetuning SAM
+Finetuning SAM on our sele-collected labels.
+
 SAM: https://github.com/facebookresearch/segment-anything
