@@ -1,6 +1,6 @@
 # ReefNet
 
-# 1. Data Organization
+# 1. Images and Labelset
 ```
 |
 ├── soucelist.txt <!-- List of sources -->
@@ -17,8 +17,10 @@
 │   ├── labels.csv
 ```
 
+# 2. Coral Labeling
 
-# 2. Model
+
+# 3. Coral Classification Model
 Useful deep learning libraries:
 
 Timm: https://timm.fast.ai/
@@ -28,3 +30,5 @@ Reference project: https://github.com/faixan-khan/FishNet
 # 3. Segment Labeling
 
 # 4. Segmentation model training
+Finetuning SAM
+SAM: https://github.com/facebookresearch/segment-anything
