@@ -4,7 +4,7 @@
 ```
 ./data/
 |
-├── soucelist.txt <!-- List of sources -->
+├── sources.txt <!-- List of sources -->
 ├── CoralNet
 │   ├── README.md <!-- Description about the dataset -->
 │   ├── Labelmapping.csv <!-- Store class code, full class name, matched worm class name -->
